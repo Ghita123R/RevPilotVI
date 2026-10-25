@@ -1,0 +1,24 @@
+{
+  "project": "RevPilot",
+  "package_type": "GitHub AI development starter and functional specification",
+  "version": "1.0",
+  "included_source_documents": [
+    "01-module-1-monthly-revenue-overview.docx",
+    "02-module-2-revenue-forecast.pdf",
+    "03-module-3-nepi.pdf",
+    "04-module-4-clients.pdf",
+    "05-module-5-contracts-invoices.pdf",
+    "06-module-6-attrition.pdf",
+    "00-main-dashboard-specification.pdf"
+  ],
+  "modules": [
+    "Main Dashboard",
+    "Module 1 - Monthly Revenue Overview",
+    "Module 2 - Revenue Forecast",
+    "Module 3 - NEPI",
+    "Module 4 - Clients",
+    "Module 5 - Contracts & Invoices",
+    "Module 6 - Attrition"
+  ],
+  "note": "This package is documentation and agent instructions; it is not a completed runnable application."
+}
