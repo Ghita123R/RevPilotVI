@@ -1,17 +1,23 @@
-# RevPilot — Prototype GitHub Pages
+# RevPilot — Prototype complet basé sur le classeur Excel source
 
-Prototype interactif en français basé sur le classeur `SaaS_RevPilot_Donnees_Fictives_2026_2027.xlsx`. Toutes les données sont fictives.
+## Fichiers
+- `index.html` : interface web du prototype.
+- `data/revpilot-demo-data.json` : données préparées à partir du classeur source.
+- `SAAS_GED_Gabarit_Base.xlsx` : fichier Excel source fourni.
 
-## Déployer sur GitHub Pages
-1. Dans le dépôt `Ghita123R/RevPilot`, téléversez `index.html`, le dossier `data/` et le classeur Excel à la racine du dépôt.
-2. Committez les changements sur `main`.
-3. Dans Settings → Pages, sélectionnez Deploy from a branch, `main`, `/(root)`.
-4. Attendez le déploiement puis ouvrez `https://ghita123r.github.io/RevPilot/`.
+## Source
+Le prototype utilise les onglets `SAAS CSP`, `SAAS CSTLO` et `SAAS SYGED`. Les clients, contrats/lignes de facturation et revenus mensuels ont été extraits ou recalculés à partir des dates, montants et statuts présents dans le classeur. Les onglets `Synthèse` et `Contrôles` restent accessibles dans le fichier Excel.
 
-## Contenu
-- `index.html` : interface responsive, navigation entre dashboard et modules, filtres BU/année, graphiques et interactions locales.
-- `data/revpilot-demo-data.json` : données structurées dérivées du classeur Excel et quelques événements d’attrition fictifs supplémentaires.
-- `SaaS_RevPilot_Donnees_Fictives_2026_2027.xlsx` : source de démonstration.
+Les raisons NEPI et les raisons d'attrition ne sont pas dans le classeur ; elles ne sont donc pas inventées. Le forecast issu des périodes de service est une projection technique, pas un budget ni un forecast officiel validé.
 
-## Limites explicites
-Ceci est un prototype front-end sans base de données ni authentification. Les ajouts dans les formulaires ne sont pas persistants. Les fonctions IA sont simulées localement, les exports sont simplifiés et aucune facture PDF n'est réellement importée ou validée. Les montants de factures ne sont pas présentés comme revenu reconnu. Les règles financières doivent être validées avant utilisation réelle.
+## Déploiement GitHub Pages
+1. Décompressez l'archive.
+2. Dans le dépôt `Ghita123R/RevPilot`, téléversez `index.html`, le dossier `data/` et le classeur Excel à la racine du dépôt.
+3. Conservez exactement le chemin `data/revpilot-demo-data.json`.
+4. Committez les changements sur `main`.
+5. Vérifiez que Settings → Pages pointe vers la bonne branche et le dossier racine.
+6. Testez `https://ghita123r.github.io/RevPilot/data/revpilot-demo-data.json`.
+7. Rechargez le site avec `Ctrl+F5`.
+
+## Limites du prototype
+Pas de base de données, d'IA réelle ni de persistance des modifications. Les imports PDF/Excel et les règles finales de forecast/NEPI/attrition restent à implémenter et valider.
