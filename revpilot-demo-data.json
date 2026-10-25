@@ -4,329 +4,411 @@
       "client_id": "CSP-0001",
       "client_name": "Municipalité de Rive-Claire",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0002",
       "client_name": "Ville de Mont-Sapin",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0003",
       "client_name": "Municipalité de Lac-Brume",
       "business_unit": "CSP",
-      "status": "lost",
+      "business_unit_label": "CSP",
+      "status": "Lost",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0004",
       "client_name": "Ville d'Anse-Dorée",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0005",
       "client_name": "Municipalité de Val-Fleuri",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0006",
       "client_name": "Ville de Pointe-Calcaire",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0007",
       "client_name": "Municipalité de Haute-Rivière-Sud",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0008",
       "client_name": "Ville de Baie-des-Ormes",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0009",
       "client_name": "Municipalité de Cap-Épinette",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0010",
       "client_name": "Ville de Roc-Vert",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0011",
       "client_name": "Municipalité de Clair-Ruisseau",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSP-0012",
       "client_name": "Ville de Mont-Aubaine",
       "business_unit": "CSP",
-      "status": "active",
+      "business_unit_label": "CSP",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSTLO-0013",
       "client_name": "Municipalité de Val-des-Pins support",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2025-11-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0014",
       "client_name": "Municipalité de Val-des-Pins signature",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2025-11-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0015",
       "client_name": "Collège Saint-Maurice-Démo support",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2025-07-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0016",
       "client_name": "Commission scolaire des Trois-Rives",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2025-12-15",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0017",
       "client_name": "Groupe Delta Logistique",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0018",
       "client_name": "Société Horizon Archives support",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0019",
       "client_name": "Société Horizon Archives stockage",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0020",
       "client_name": "Centre de services Lac-Bleu",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-07-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0021",
       "client_name": "Régie intermunicipale Pins-et-Cèdres",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-05-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0022",
       "client_name": "Fondation Aurore-Démo",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": null,
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0023",
       "client_name": "Institut Nordique de Recherche",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-07-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0024",
       "client_name": "Société de transport Rivière-Verte",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0025",
       "client_name": "Mutuelle Cap-Horizon",
       "business_unit": "CSTLO",
-      "status": "lost",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Lost",
       "first_contract_date": "2025-11-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0026",
       "client_name": "Hôpital régional des Trois-Lacs",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-05-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0027",
       "client_name": "Autorité de la zone portuaire démo",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-07-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0028",
       "client_name": "Coopérative Terre-et-Mer",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-01-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "CSTLO-0029",
       "client_name": "Municipalité régionale Haut-Plateau",
       "business_unit": "CSTLO",
-      "status": "active",
+      "business_unit_label": "CSTLO / Constellio",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "SYGED-0030",
       "client_name": "Ministère fictif de l'Éducation",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0031",
       "client_name": "École supérieure des Arts-Démo",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0032",
       "client_name": "Centre de services scolaire du Grand-Lac",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0033",
       "client_name": "Collège technique Nord-Est",
       "business_unit": "SYGED",
-      "status": "to_review",
+      "business_unit_label": "SyGED",
+      "status": "To review",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0034",
       "client_name": "Université du Plateau-Démo",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0035",
       "client_name": "Commission de la formation Val-Rouge",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0036",
       "client_name": "Ministère fictif des Transports",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0037",
       "client_name": "Institut des métiers Pierre-Blanche",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0038",
       "client_name": "Cégep Montcalm-Nord",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0039",
       "client_name": "Conseil des écoles Rive-Sud",
       "business_unit": "SYGED",
-      "status": "lost",
+      "business_unit_label": "SyGED",
+      "status": "Lost",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0040",
       "client_name": "École de gestion Baie-Claire",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "client_id": "SYGED-0041",
       "client_name": "Centre de recherche Aube-Boréale",
       "business_unit": "SYGED",
-      "status": "active",
+      "business_unit_label": "SyGED",
+      "status": "Active",
       "first_contract_date": "2026-04-01",
-      "currency": "MAD"
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED"
     }
   ],
   "contracts": [
@@ -335,246 +417,307 @@
       "client_id": "CSP-0001",
       "client_name": "Municipalité de Rive-Claire",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 240.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 6
     },
     {
       "contract_id": "CTR-CSP-0007",
       "client_id": "CSP-0002",
       "client_name": "Ville de Mont-Sapin",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 341.67,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 7
     },
     {
       "contract_id": "CTR-CSP-0008",
       "client_id": "CSP-0003",
       "client_name": "Municipalité de Lac-Brume",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Perdu",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 284.08,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": false
+      "forecast_included": false,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 8
     },
     {
       "contract_id": "CTR-CSP-0009",
       "client_id": "CSP-0004",
       "client_name": "Ville d'Anse-Dorée",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 240.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 9
     },
     {
       "contract_id": "CTR-CSP-0010",
       "client_id": "CSP-0005",
       "client_name": "Municipalité de Val-Fleuri",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 180.5,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 10
     },
     {
       "contract_id": "CTR-CSP-0011",
       "client_id": "CSP-0006",
       "client_name": "Ville de Pointe-Calcaire",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 322.92,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 11
     },
     {
       "contract_id": "CTR-CSP-0012",
       "client_id": "CSP-0007",
       "client_name": "Municipalité de Haute-Rivière-Sud",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 322.92,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 12
     },
     {
       "contract_id": "CTR-CSP-0013",
       "client_id": "CSP-0008",
       "client_name": "Ville de Baie-des-Ormes",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 578.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 13
     },
     {
       "contract_id": "CTR-CSP-0014",
       "client_id": "CSP-0009",
       "client_name": "Municipalité de Cap-Épinette",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 284.08,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 14
     },
     {
       "contract_id": "CTR-CSP-0015",
       "client_id": "CSP-0010",
       "client_name": "Ville de Roc-Vert",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 368.33,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 15
     },
     {
       "contract_id": "CTR-CSP-0016",
       "client_id": "CSP-0011",
       "client_name": "Municipalité de Clair-Ruisseau",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 462.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 16
     },
     {
       "contract_id": "CTR-CSP-0017",
       "client_id": "CSP-0012",
       "client_name": "Ville de Mont-Aubaine",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 510.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSP",
+      "source_row": 17
     },
     {
       "contract_id": "CTR-CSTLO-0006",
       "client_id": "CSTLO-0013",
       "client_name": "Municipalité de Val-des-Pins support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2025-11-01",
       "end_date": "2026-10-31",
       "monthly_recurring_revenue_usd": 1533.33,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "nov-oct",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 6
     },
     {
       "contract_id": "CTR-CSTLO-0007",
       "client_id": "CSTLO-0014",
       "client_name": "Municipalité de Val-des-Pins signature",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Signature / signature",
       "contract_status": "Actif",
       "start_date": "2025-11-01",
       "end_date": "2026-10-31",
       "monthly_recurring_revenue_usd": 130.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "nov-oct",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 7
     },
     {
       "contract_id": "CTR-CSTLO-0008",
       "client_id": "CSTLO-0015",
       "client_name": "Collège Saint-Maurice-Démo support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2025-07-01",
       "end_date": "2026-06-30",
       "monthly_recurring_revenue_usd": 500.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Juil-juin",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 8
     },
     {
       "contract_id": "CTR-CSTLO-0009",
       "client_id": "CSTLO-0016",
       "client_name": "Commission scolaire des Trois-Rives",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / or",
       "contract_status": "Actif",
       "start_date": "2025-12-15",
@@ -584,141 +727,177 @@
       "billing_frequency": "15 déc-14 déc",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 9
     },
     {
       "contract_id": "CTR-CSTLO-0010",
       "client_id": "CSTLO-0017",
       "client_name": "Groupe Delta Logistique",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / professionnel",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1050.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 10
     },
     {
       "contract_id": "CTR-CSTLO-0011",
       "client_id": "CSTLO-0017",
       "client_name": "Groupe Delta Logistique",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / professionnel",
       "contract_status": "Actif",
       "start_date": "2025-04-01",
       "end_date": "2026-03-31",
       "monthly_recurring_revenue_usd": 1000.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 11
     },
     {
       "contract_id": "CTR-CSTLO-0012",
       "client_id": "CSTLO-0018",
       "client_name": "Société Horizon Archives support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / or",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 737.5,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 12
     },
     {
       "contract_id": "CTR-CSTLO-0013",
       "client_id": "CSTLO-0019",
       "client_name": "Société Horizon Archives stockage",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Stockage",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 270.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 13
     },
     {
       "contract_id": "CTR-CSTLO-0014",
       "client_id": "CSTLO-0018",
       "client_name": "Société Horizon Archives support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / or",
       "contract_status": "Actif",
       "start_date": "2025-04-01",
       "end_date": "2026-03-31",
       "monthly_recurring_revenue_usd": 702.5,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 14
     },
     {
       "contract_id": "CTR-CSTLO-0015",
       "client_id": "CSTLO-0019",
       "client_name": "Société Horizon Archives stockage",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Stockage",
       "contract_status": "Actif",
       "start_date": "2025-04-01",
       "end_date": "2026-03-31",
       "monthly_recurring_revenue_usd": 257.08,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 15
     },
     {
       "contract_id": "CTR-CSTLO-0016",
       "client_id": "CSTLO-0020",
       "client_name": "Centre de services Lac-Bleu",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-07-01",
       "end_date": "2027-06-30",
       "monthly_recurring_revenue_usd": 595.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Juil-juin",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 16
     },
     {
       "contract_id": "CTR-CSTLO-0017",
       "client_id": "CSTLO-0021",
       "client_name": "Régie intermunicipale Pins-et-Cèdres",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-05-01",
       "end_date": "2027-04-30",
       "monthly_recurring_revenue_usd": 875.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "mai-Avril",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 17
     },
     {
       "contract_id": "CTR-CSTLO-0018",
       "client_id": "CSTLO-0022",
       "client_name": "Fondation Aurore-Démo",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": null,
@@ -728,311 +907,390 @@
       "billing_frequency": "nov-oct",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 18
     },
     {
       "contract_id": "CTR-CSTLO-0019",
       "client_id": "CSTLO-0023",
       "client_name": "Institut Nordique de Recherche",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-07-01",
       "end_date": "2027-06-30",
       "monthly_recurring_revenue_usd": 1783.33,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Juil-juin",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 19
     },
     {
       "contract_id": "CTR-CSTLO-0020",
       "client_id": "CSTLO-0024",
       "client_name": "Société de transport Rivière-Verte",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1325.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 20
     },
     {
       "contract_id": "CTR-CSTLO-0021",
       "client_id": "CSTLO-0025",
       "client_name": "Mutuelle Cap-Horizon",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Perdu",
       "start_date": "2025-11-01",
       "end_date": "2026-10-31",
       "monthly_recurring_revenue_usd": 831.67,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "nov-oct",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": false
+      "forecast_included": false,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 21
     },
     {
       "contract_id": "CTR-CSTLO-0022",
       "client_id": "CSTLO-0026",
       "client_name": "Hôpital régional des Trois-Lacs",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-05-01",
       "end_date": "2027-04-30",
       "monthly_recurring_revenue_usd": 2187.5,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "mai-Avril",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 22
     },
     {
       "contract_id": "CTR-CSTLO-0023",
       "client_id": "CSTLO-0027",
       "client_name": "Autorité de la zone portuaire démo",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-07-01",
       "end_date": "2027-06-30",
       "monthly_recurring_revenue_usd": 1116.67,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Juil-juin",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 23
     },
     {
       "contract_id": "CTR-CSTLO-0024",
       "client_id": "CSTLO-0028",
       "client_name": "Coopérative Terre-et-Mer",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "monthly_recurring_revenue_usd": 400.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Annuel",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 24
     },
     {
       "contract_id": "CTR-CSTLO-0025",
       "client_id": "CSTLO-0029",
       "client_name": "Municipalité régionale Haut-Plateau",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "module": "Support / platine",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1470.83,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "avril-Mars",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS CSTLO",
+      "source_row": 25
     },
     {
       "contract_id": "CTR-SYGED-0006",
       "client_id": "SYGED-0030",
       "client_name": "Ministère fictif de l'Éducation",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 4275.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 6
     },
     {
       "contract_id": "CTR-SYGED-0007",
       "client_id": "SYGED-0031",
       "client_name": "École supérieure des Arts-Démo",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 621.92,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 7
     },
     {
       "contract_id": "CTR-SYGED-0008",
       "client_id": "SYGED-0032",
       "client_name": "Centre de services scolaire du Grand-Lac",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 621.92,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 8
     },
     {
       "contract_id": "CTR-SYGED-0009",
       "client_id": "SYGED-0033",
       "client_name": "Collège technique Nord-Est",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "À vérifier",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1650.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 9
     },
     {
       "contract_id": "CTR-SYGED-0010",
       "client_id": "SYGED-0034",
       "client_name": "Université du Plateau-Démo",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1650.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 10
     },
     {
       "contract_id": "CTR-SYGED-0011",
       "client_id": "SYGED-0035",
       "client_name": "Commission de la formation Val-Rouge",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1650.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 11
     },
     {
       "contract_id": "CTR-SYGED-0012",
       "client_id": "SYGED-0036",
       "client_name": "Ministère fictif des Transports",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 3884.33,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 12
     },
     {
       "contract_id": "CTR-SYGED-0013",
       "client_id": "SYGED-0037",
       "client_name": "Institut des métiers Pierre-Blanche",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 2054.17,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 13
     },
     {
       "contract_id": "CTR-SYGED-0014",
       "client_id": "SYGED-0038",
       "client_name": "Cégep Montcalm-Nord",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 1650.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 14
     },
     {
       "contract_id": "CTR-SYGED-0015",
       "client_id": "SYGED-0039",
       "client_name": "Conseil des écoles Rive-Sud",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Perdu",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 4275.0,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": false
+      "forecast_included": false,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 15
     },
     {
       "contract_id": "CTR-SYGED-0016",
       "client_id": "SYGED-0040",
       "client_name": "École de gestion Baie-Claire",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 621.92,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 16
     },
     {
       "contract_id": "CTR-SYGED-0017",
       "client_id": "SYGED-0041",
       "client_name": "Centre de recherche Aube-Boréale",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "module": "Non renseigné",
       "contract_status": "Actif",
       "start_date": "2026-04-01",
       "end_date": "2027-03-31",
       "monthly_recurring_revenue_usd": 3884.33,
-      "recognition_method": "daily_proration",
+      "recognition_method": "monthly_linear",
       "billing_frequency": "Non renseignée",
       "new_contract_confirmed": false,
       "renewal_expected": null,
-      "forecast_included": true
+      "forecast_included": true,
+      "currency": "MAD",
+      "source_sheet": "SAAS SYGED",
+      "source_row": 17
     }
   ],
   "invoices": [
@@ -1041,6 +1299,7 @@
       "client_id": "CSP-0001",
       "client_name": "Municipalité de Rive-Claire",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0006",
       "module": "Non renseigné",
       "invoice_date": "2025-11-10",
@@ -1049,7 +1308,6 @@
       "amount_usd": 2890.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1060,6 +1318,7 @@
       "client_id": "CSP-0002",
       "client_name": "Ville de Mont-Sapin",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0007",
       "module": "Non renseigné",
       "invoice_date": "2025-11-09",
@@ -1068,7 +1327,6 @@
       "amount_usd": 4100.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1079,6 +1337,7 @@
       "client_id": "CSP-0003",
       "client_name": "Municipalité de Lac-Brume",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0008",
       "module": "Non renseigné",
       "invoice_date": "2025-11-19",
@@ -1087,7 +1346,6 @@
       "amount_usd": 3409.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Perdu",
       "source_sheet": "SAAS CSP",
@@ -1098,6 +1356,7 @@
       "client_id": "CSP-0004",
       "client_name": "Ville d'Anse-Dorée",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0009",
       "module": "Non renseigné",
       "invoice_date": "2025-12-03",
@@ -1106,7 +1365,6 @@
       "amount_usd": 2890.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1117,6 +1375,7 @@
       "client_id": "CSP-0005",
       "client_name": "Municipalité de Val-Fleuri",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0010",
       "module": "Non renseigné",
       "invoice_date": "2025-11-08",
@@ -1125,7 +1384,6 @@
       "amount_usd": 2166.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1136,6 +1394,7 @@
       "client_id": "CSP-0006",
       "client_name": "Ville de Pointe-Calcaire",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0011",
       "module": "Non renseigné",
       "invoice_date": "2025-11-19",
@@ -1144,7 +1403,6 @@
       "amount_usd": 3875.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1155,6 +1413,7 @@
       "client_id": "CSP-0007",
       "client_name": "Municipalité de Haute-Rivière-Sud",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0012",
       "module": "Non renseigné",
       "invoice_date": "2025-12-09",
@@ -1163,7 +1422,6 @@
       "amount_usd": 3875.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1174,6 +1432,7 @@
       "client_id": "CSP-0008",
       "client_name": "Ville de Baie-des-Ormes",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0013",
       "module": "Non renseigné",
       "invoice_date": "2025-12-02",
@@ -1182,7 +1441,6 @@
       "amount_usd": 6946.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1193,6 +1451,7 @@
       "client_id": "CSP-0009",
       "client_name": "Municipalité de Cap-Épinette",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0014",
       "module": "Non renseigné",
       "invoice_date": "2025-12-12",
@@ -1201,7 +1460,6 @@
       "amount_usd": 3409.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1212,6 +1470,7 @@
       "client_id": "CSP-0010",
       "client_name": "Ville de Roc-Vert",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0015",
       "module": "Non renseigné",
       "invoice_date": "2025-11-08",
@@ -1220,7 +1479,6 @@
       "amount_usd": 4420.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1231,6 +1489,7 @@
       "client_id": "CSP-0011",
       "client_name": "Municipalité de Clair-Ruisseau",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0016",
       "module": "Non renseigné",
       "invoice_date": "2025-11-04",
@@ -1239,7 +1498,6 @@
       "amount_usd": 5544.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1250,6 +1508,7 @@
       "client_id": "CSP-0012",
       "client_name": "Ville de Mont-Aubaine",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "contract_id": "CTR-CSP-0017",
       "module": "Non renseigné",
       "invoice_date": "2025-11-13",
@@ -1258,7 +1517,6 @@
       "amount_usd": 6130.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSP",
@@ -1269,6 +1527,7 @@
       "client_id": "CSTLO-0013",
       "client_name": "Municipalité de Val-des-Pins support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0006",
       "module": "Support / platine",
       "invoice_date": "2025-09-05",
@@ -1277,7 +1536,6 @@
       "amount_usd": 18400.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1288,6 +1546,7 @@
       "client_id": "CSTLO-0014",
       "client_name": "Municipalité de Val-des-Pins signature",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0007",
       "module": "Signature / signature",
       "invoice_date": "2025-09-05",
@@ -1296,7 +1555,6 @@
       "amount_usd": 1570.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1307,6 +1565,7 @@
       "client_id": "CSTLO-0015",
       "client_name": "Collège Saint-Maurice-Démo support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0008",
       "module": "Support / platine",
       "invoice_date": "2025-06-10",
@@ -1315,7 +1574,6 @@
       "amount_usd": 6000.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1326,6 +1584,7 @@
       "client_id": "CSTLO-0016",
       "client_name": "Commission scolaire des Trois-Rives",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0009",
       "module": "Support / or",
       "invoice_date": "2025-12-05",
@@ -1334,7 +1593,6 @@
       "amount_usd": 9500.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "Période partielle — à valider",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1345,6 +1603,7 @@
       "client_id": "CSTLO-0017",
       "client_name": "Groupe Delta Logistique",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0010",
       "module": "Support / professionnel",
       "invoice_date": "2026-03-02",
@@ -1353,7 +1612,6 @@
       "amount_usd": 12600.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1364,6 +1622,7 @@
       "client_id": "CSTLO-0017",
       "client_name": "Groupe Delta Logistique",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0011",
       "module": "Support / professionnel",
       "invoice_date": "2025-03-04",
@@ -1372,7 +1631,6 @@
       "amount_usd": 12000.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1383,6 +1641,7 @@
       "client_id": "CSTLO-0018",
       "client_name": "Société Horizon Archives support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0012",
       "module": "Support / or",
       "invoice_date": "2026-03-10",
@@ -1391,7 +1650,6 @@
       "amount_usd": 8850.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1402,6 +1660,7 @@
       "client_id": "CSTLO-0019",
       "client_name": "Société Horizon Archives stockage",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0013",
       "module": "Stockage",
       "invoice_date": "2026-03-10",
@@ -1410,7 +1669,6 @@
       "amount_usd": 3240.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1421,6 +1679,7 @@
       "client_id": "CSTLO-0018",
       "client_name": "Société Horizon Archives support",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0014",
       "module": "Support / or",
       "invoice_date": "2025-03-12",
@@ -1429,7 +1688,6 @@
       "amount_usd": 8430.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1440,6 +1698,7 @@
       "client_id": "CSTLO-0019",
       "client_name": "Société Horizon Archives stockage",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0015",
       "module": "Stockage",
       "invoice_date": "2025-03-12",
@@ -1448,7 +1707,6 @@
       "amount_usd": 3085.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1459,6 +1717,7 @@
       "client_id": "CSTLO-0020",
       "client_name": "Centre de services Lac-Bleu",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0016",
       "module": "Support / platine",
       "invoice_date": "2026-05-15",
@@ -1467,7 +1726,6 @@
       "amount_usd": 7150.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1478,6 +1736,7 @@
       "client_id": "CSTLO-0021",
       "client_name": "Régie intermunicipale Pins-et-Cèdres",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0017",
       "module": "Support / platine",
       "invoice_date": "2026-03-21",
@@ -1486,7 +1745,6 @@
       "amount_usd": 10500.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1497,6 +1755,7 @@
       "client_id": "CSTLO-0022",
       "client_name": "Fondation Aurore-Démo",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0018",
       "module": "Support / platine",
       "invoice_date": null,
@@ -1505,7 +1764,6 @@
       "amount_usd": 5600.0,
       "currency": "MAD",
       "invoice_status": "en retard de paiement",
-      "fictional_attachment": null,
       "notes": "Période à confirmer",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1516,6 +1774,7 @@
       "client_id": "CSTLO-0023",
       "client_name": "Institut Nordique de Recherche",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0019",
       "module": "Support / platine",
       "invoice_date": "2026-05-08",
@@ -1524,7 +1783,6 @@
       "amount_usd": 21400.0,
       "currency": "MAD",
       "invoice_status": "À vérifier",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1535,6 +1793,7 @@
       "client_id": "CSTLO-0024",
       "client_name": "Société de transport Rivière-Verte",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0020",
       "module": "Support / platine",
       "invoice_date": "2026-02-01",
@@ -1543,7 +1802,6 @@
       "amount_usd": 15900.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1554,6 +1812,7 @@
       "client_id": "CSTLO-0025",
       "client_name": "Mutuelle Cap-Horizon",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0021",
       "module": "Support / platine",
       "invoice_date": "2025-09-30",
@@ -1562,7 +1821,6 @@
       "amount_usd": 9980.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Perdu",
       "source_sheet": "SAAS CSTLO",
@@ -1573,6 +1831,7 @@
       "client_id": "CSTLO-0026",
       "client_name": "Hôpital régional des Trois-Lacs",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0022",
       "module": "Support / platine",
       "invoice_date": "2026-03-13",
@@ -1581,7 +1840,6 @@
       "amount_usd": 26250.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1592,6 +1850,7 @@
       "client_id": "CSTLO-0027",
       "client_name": "Autorité de la zone portuaire démo",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0023",
       "module": "Support / platine",
       "invoice_date": "2026-06-01",
@@ -1600,7 +1859,6 @@
       "amount_usd": 13400.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1611,6 +1869,7 @@
       "client_id": "CSTLO-0028",
       "client_name": "Coopérative Terre-et-Mer",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0024",
       "module": "Support / platine",
       "invoice_date": "2025-11-02",
@@ -1619,7 +1878,6 @@
       "amount_usd": 4800.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1630,6 +1888,7 @@
       "client_id": "CSTLO-0029",
       "client_name": "Municipalité régionale Haut-Plateau",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "contract_id": "CTR-CSTLO-0025",
       "module": "Support / platine",
       "invoice_date": "2026-02-17",
@@ -1638,7 +1897,6 @@
       "amount_usd": 17650.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS CSTLO",
@@ -1649,6 +1907,7 @@
       "client_id": "SYGED-0030",
       "client_name": "Ministère fictif de l'Éducation",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0006",
       "module": "Non renseigné",
       "invoice_date": "2026-02-24",
@@ -1657,7 +1916,6 @@
       "amount_usd": 51300.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1668,6 +1926,7 @@
       "client_id": "SYGED-0031",
       "client_name": "École supérieure des Arts-Démo",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0007",
       "module": "Non renseigné",
       "invoice_date": "2026-02-11",
@@ -1676,7 +1935,6 @@
       "amount_usd": 7463.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1687,6 +1945,7 @@
       "client_id": "SYGED-0032",
       "client_name": "Centre de services scolaire du Grand-Lac",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0008",
       "module": "Non renseigné",
       "invoice_date": "2026-02-14",
@@ -1695,7 +1954,6 @@
       "amount_usd": 7463.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1706,6 +1964,7 @@
       "client_id": "SYGED-0033",
       "client_name": "Collège technique Nord-Est",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0009",
       "module": "Non renseigné",
       "invoice_date": "2026-03-07",
@@ -1714,7 +1973,6 @@
       "amount_usd": 19800.0,
       "currency": "MAD",
       "invoice_status": "en retard de paiement",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "À vérifier",
       "source_sheet": "SAAS SYGED",
@@ -1725,6 +1983,7 @@
       "client_id": "SYGED-0034",
       "client_name": "Université du Plateau-Démo",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0010",
       "module": "Non renseigné",
       "invoice_date": "2026-02-23",
@@ -1733,7 +1992,6 @@
       "amount_usd": 19800.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1744,6 +2002,7 @@
       "client_id": "SYGED-0035",
       "client_name": "Commission de la formation Val-Rouge",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0011",
       "module": "Non renseigné",
       "invoice_date": "2026-02-19",
@@ -1752,7 +2011,6 @@
       "amount_usd": 19800.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1763,6 +2021,7 @@
       "client_id": "SYGED-0036",
       "client_name": "Ministère fictif des Transports",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0012",
       "module": "Non renseigné",
       "invoice_date": "2026-02-16",
@@ -1771,7 +2030,6 @@
       "amount_usd": 46612.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1782,6 +2040,7 @@
       "client_id": "SYGED-0037",
       "client_name": "Institut des métiers Pierre-Blanche",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0013",
       "module": "Non renseigné",
       "invoice_date": "2026-02-23",
@@ -1790,7 +2049,6 @@
       "amount_usd": 24650.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1801,6 +2059,7 @@
       "client_id": "SYGED-0038",
       "client_name": "Cégep Montcalm-Nord",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0014",
       "module": "Non renseigné",
       "invoice_date": "2026-02-03",
@@ -1809,7 +2068,6 @@
       "amount_usd": 19800.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1820,6 +2078,7 @@
       "client_id": "SYGED-0039",
       "client_name": "Conseil des écoles Rive-Sud",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0015",
       "module": "Non renseigné",
       "invoice_date": "2026-03-10",
@@ -1828,7 +2087,6 @@
       "amount_usd": 51300.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Perdu",
       "source_sheet": "SAAS SYGED",
@@ -1839,6 +2097,7 @@
       "client_id": "SYGED-0040",
       "client_name": "École de gestion Baie-Claire",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0016",
       "module": "Non renseigné",
       "invoice_date": "2026-03-08",
@@ -1847,7 +2106,6 @@
       "amount_usd": 7463.0,
       "currency": "MAD",
       "invoice_status": "payé",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1858,6 +2116,7 @@
       "client_id": "SYGED-0041",
       "client_name": "Centre de recherche Aube-Boréale",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "contract_id": "CTR-SYGED-0017",
       "module": "Non renseigné",
       "invoice_date": "2026-03-22",
@@ -1866,7 +2125,6 @@
       "amount_usd": 46612.0,
       "currency": "MAD",
       "invoice_status": "en retard de paiement",
-      "fictional_attachment": null,
       "notes": "",
       "contract_status": "Actif",
       "source_sheet": "SAAS SYGED",
@@ -1877,1561 +2135,1999 @@
     {
       "month": "2026-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 3853.75,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 5330.6,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 5252.52,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 5330.6,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 8198.32,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 11286.85,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 11260.82,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 14282.68,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 14282.68,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 14256.66,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 14282.68,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 12592.49,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 12176.05,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 11411.67,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 11411.67,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 11411.67,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 6558.33,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 3495.83,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 3495.83,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2026-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 22563.58,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2027-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     },
     {
       "month": "2028-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "forecast_usd": 0.0,
-      "forecast_type": "source_schedule_not_approved_forecast",
-      "snapshot": "derived_from_SAAS_GED_Gabarit_Base"
+      "currency": "MAD",
+      "forecast_type": "Planning du classeur — projection technique",
+      "snapshot": "Valeur mensuelle issue du planning Excel, pas un forecast approuvé"
     }
   ],
   "actuals": [
     {
       "month": "2026-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 3853.75,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2027-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-01",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-02",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-03",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-04",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-05",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-06",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-07",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-08",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-09",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-10",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-11",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2028-12",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSP"
     },
     {
       "month": "2026-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 5330.6,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 5252.52,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 5330.6,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 8198.32,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 11286.85,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 11260.82,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 14282.68,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 14282.68,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 14256.66,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 14282.68,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 12592.49,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 12176.05,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 11411.67,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 11411.67,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 11411.67,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 6558.33,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 3495.83,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 3495.83,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2027-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-01",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-02",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-03",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-04",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-05",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-06",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-07",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-08",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-09",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-10",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-11",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2028-12",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "month": "2026-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2026-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 22563.58,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2027-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-01",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-02",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-03",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-04",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-05",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-06",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-07",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-08",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-09",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-10",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-11",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     },
     {
       "month": "2028-12",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "actual_usd": 0.0,
-      "status": "calculated_from_base_excel",
-      "close_date": null
+      "currency": "MAD",
+      "status": "source_excel_monthly_formula_value",
+      "source_sheet": "SAAS SYGED"
     }
   ],
   "variance_causes": [],
-  "demo_notice": "Prototype RevPilot basé sur le fichier Excel source fourni. Les données du classeur sont utilisées comme source. Les montants mensuels sont recalculés à partir des périodes de service et statuts du classeur. Le forecast affiché à partir du planning est une projection technique, pas un budget ni un forecast officiel validé. Les raisons NEPI et d'attrition ne sont pas présentes dans le classeur et ne sont pas inventées.",
   "attrition": [
     {
       "client_id": "CSP-0003",
       "client_name": "Municipalité de Lac-Brume",
       "business_unit": "CSP",
+      "business_unit_label": "CSP",
       "departure_date": null,
       "last_paid_invoice": null,
       "last_paid_date": null,
       "lost_monthly_revenue": null,
       "lost_annualized_revenue": null,
-      "reason": null,
-      "status": "à compléter manuellement",
-      "fictional": false
+      "reason": "À renseigner manuellement",
+      "status": "À compléter",
+      "fictional": false,
+      "source_sheet": "SAAS CSP"
     },
     {
       "client_id": "CSTLO-0025",
       "client_name": "Mutuelle Cap-Horizon",
       "business_unit": "CSTLO",
+      "business_unit_label": "CSTLO / Constellio",
       "departure_date": null,
       "last_paid_invoice": null,
       "last_paid_date": null,
       "lost_monthly_revenue": null,
       "lost_annualized_revenue": null,
-      "reason": null,
-      "status": "à compléter manuellement",
-      "fictional": false
+      "reason": "À renseigner manuellement",
+      "status": "À compléter",
+      "fictional": false,
+      "source_sheet": "SAAS CSTLO"
     },
     {
       "client_id": "SYGED-0039",
       "client_name": "Conseil des écoles Rive-Sud",
       "business_unit": "SYGED",
+      "business_unit_label": "SyGED",
       "departure_date": null,
       "last_paid_invoice": null,
       "last_paid_date": null,
       "lost_monthly_revenue": null,
       "lost_annualized_revenue": null,
-      "reason": null,
-      "status": "à compléter manuellement",
-      "fictional": false
+      "reason": "À renseigner manuellement",
+      "status": "À compléter",
+      "fictional": false,
+      "source_sheet": "SAAS SYGED"
     }
   ],
+  "demo_notice": "Prototype alimenté par les valeurs du classeur SAAS GED fourni. Les données doivent être validées avant usage financier. Les valeurs mensuelles proviennent des résultats de formules Excel enregistrés dans le classeur. Les raisons NEPI et d'attrition ne sont pas inventées.",
   "source_workbook": {
     "file_name": "SAAS_GED_Gabarit_Base.xlsx",
     "sheets": [
@@ -3480,10 +4176,19 @@
       "2028-12"
     ],
     "business_units": [
-      "CSP",
-      "CSTLO",
-      "SYGED"
+      {
+        "code": "CSP",
+        "label": "CSP"
+      },
+      {
+        "code": "CSTLO",
+        "label": "CSTLO / Constellio"
+      },
+      {
+        "code": "SYGED",
+        "label": "SyGED"
+      }
     ],
-    "note": "Les valeurs mensuelles sont recalculées à partir des dates, montants et statuts du classeur ; les formules Excel ne sont pas évaluées par le navigateur."
+    "note": "Les revenus mensuels sont extraits des résultats de formules présents dans le classeur."
   }
 }
